@@ -1,0 +1,91 @@
+---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
+Input file: ../../30th_static_fiend/30th_fiend_metal1.map
+Output file: ../../30th_static_fiend/30th_fiend_metal1.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+         7769 faces
+         1342 brushes
+          155 entities
+          107 unique texnames
+         1019 texinfo
+
+Opened WAD: ../../30th_static_fiend/Textures/quake101.wad
+Opened WAD: ../../30th_static_fiend/Textures/ikbase.wad
+Opened WAD: ../../30th_static_fiend/Textures/ikblue.wad
+Opened WAD: ../../30th_static_fiend/Textures/hipnotic.wad
+Opened WAD: ../../30th_static_fiend/Textures/knave.wad
+Opened WAD: ../../30th_static_fiend/Textures/rogue.wad
+Opened WAD: ../../30th_static_fiend/Textures/rubicon.wad
+Opened WAD: ../../30th_static_fiend/Textures/utilsmall.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+         1297 brushes
+           31 detail
+          994 planes
+---- CSGFaces ----
+         7685 brushfaces
+         6054 csgfaces
+         5478 mergedfaces
+---- SolidBSP ----
+         6387 split nodes
+         2390 solid leafs
+         3845 empty leafs
+          109 water leafs
+           44 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+        11460 leaffaces
+        10703 nodefaces
+---- Portalize ----
+         3998 vis leafs
+         3998 vis clusters
+        11493 vis portals
+---- FillOutside ----
+         2464 outleafs
+---- MergeAll ----
+         3143 mergefaces
+---- SolidBSP ----
+         1418 split nodes
+          687 solid leafs
+          689 empty leafs
+           11 water leafs
+           32 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         4639 leaffaces
+         3669 nodefaces
+---- Portalize ----
+          700 vis leafs
+          650 vis clusters
+         1577 vis portals
+---- Tjunc ----
+         3778 world edges
+        12556 edge points
+         2906 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+Processing hull 2...
+---- WriteBSPFile ----
+Wrote ../../30th_static_fiend/30th_fiend_metal1.bsp
+         1243 planes            24860
+         4666 vertexes          55992
+         1491 nodes             65604
+          626 texinfo           25040
+         3596 faces            100688
+         2020 clipnodes         24240
+          771 leafs             33924
+         4530 marksurfaces      18120
+        17082 surfedges         68328
+         8542 edges             68336
+          121 textures         945428
+              lightdata             0
+              visdata               0
+              entdata           10064
+
+0.303 seconds elapsed
+Peak memory usage: 41829832 (39.9M)
