@@ -6,6 +6,7 @@
 "wad" "Textures/quake101.wad;Textures/ikbase.wad;Textures/ikblue.wad;Textures/hipnotic.wad;Textures/knave.wad;Textures/rogue.wad;Textures/rubicon.wad;Textures/utilsmall.wad"
 "sounds" "5"
 "worldtype" "1"
+"message" "The Halls of Misanthropy"
 // brush 0
 {
 ( 192 192 16 ) ( 192 193 16 ) ( 192 192 17 ) metal4_4 0 -16 0 1 1
