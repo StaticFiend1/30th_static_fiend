@@ -4,11 +4,11 @@ Output file: ../../30th_static_fiend/30th_fiend_metal1.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         9598 faces
-         1654 brushes
-          193 entities
-          112 unique texnames
-         1137 texinfo
+         9838 faces
+         1698 brushes
+          195 entities
+          113 unique texnames
+         1181 texinfo
 
 Opened WAD: ../../30th_static_fiend/Textures/quake101.wad
 Opened WAD: ../../30th_static_fiend/Textures/ikbase.wad
@@ -20,51 +20,51 @@ Opened WAD: ../../30th_static_fiend/Textures/rubicon.wad
 Opened WAD: ../../30th_static_fiend/Textures/utilsmall.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-         1590 brushes
+         1634 brushes
            31 detail
-         1141 planes
+         1164 planes
 ---- CSGFaces ----
-         9397 brushfaces
-         7378 csgfaces
-         6629 mergedfaces
+         9637 brushfaces
+         7554 csgfaces
+         6773 mergedfaces
 ---- SolidBSP ----
-         7988 split nodes
-         3079 solid leafs
-         4762 empty leafs
-          104 water leafs
-           44 detail leafs
+         8275 split nodes
+         3158 solid leafs
+         4950 empty leafs
+          114 water leafs
+           54 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        13988 leaffaces
-        13007 nodefaces
+        14501 leaffaces
+        13455 nodefaces
 ---- Portalize ----
-         4910 vis leafs
-         4910 vis clusters
-        14288 vis portals
+         5118 vis leafs
+         5118 vis clusters
+        14919 vis portals
 ---- FillOutside ----
-         2957 outleafs
+         3059 outleafs
 ---- MergeAll ----
-         3790 mergefaces
+         3820 mergefaces
 ---- SolidBSP ----
-         1887 split nodes
-          930 solid leafs
-          915 empty leafs
-           12 water leafs
-           31 detail leafs
+         1891 split nodes
+          936 solid leafs
+          912 empty leafs
+           11 water leafs
+           33 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5748 leaffaces
-         4521 nodefaces
+         5780 leaffaces
+         4548 nodefaces
 ---- Portalize ----
-          927 vis leafs
-          876 vis clusters
-         2270 vis portals
+          923 vis leafs
+          872 vis clusters
+         2210 vis portals
 ---- Tjunc ----
-         4701 world edges
-        15669 edge points
-         3557 edges added by tjunctions
+         4765 world edges
+        15778 edge points
+         3559 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -72,20 +72,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote ../../30th_static_fiend/30th_fiend_metal1.bsp
-         1494 planes            29880
-         5880 vertexes          70560
-         1986 nodes             47664
-          692 texinfo           27680
-         4484 faces             89680
-         2635 clipnodes         21080
-         1022 leafs             28616
-         5681 marksurfaces      11362
-        21295 surfedges         85180
-        10651 edges             42604
-          126 textures        1000048
+         1523 planes            30460
+         5894 vertexes          70728
+         1989 nodes             47736
+          707 texinfo           28280
+         4508 faces             90160
+         2667 clipnodes         21336
+         1018 leafs             28504
+         5705 marksurfaces      11410
+        21399 surfedges         85596
+        10703 edges             42812
+          127 textures        1005532
               lightdata             0
               visdata               0
-              entdata           12266
+              entdata           12394
 
-0.390 seconds elapsed
-Peak memory usage: 51295226 (48.9M)
+0.394 seconds elapsed
+Peak memory usage: 51689534 (49.3M)
