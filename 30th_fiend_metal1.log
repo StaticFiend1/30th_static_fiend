@@ -3,12 +3,11 @@ Input file: ../../30th_static_fiend/30th_fiend_metal1.map
 Output file: ../../30th_static_fiend/30th_fiend_metal1.bsp
 
 ---- LoadMapFile ----
-*** WARNING 06: No info_player_deathmatch entities in level
-        12008 faces
-         2065 brushes
-          229 entities
-          119 unique texnames
-         1417 texinfo
+        13644 faces
+         2342 brushes
+          343 entities
+          120 unique texnames
+         1572 texinfo
 
 Opened WAD: ../../30th_static_fiend/Textures/quake101.wad
 Opened WAD: ../../30th_static_fiend/Textures/ikbase.wad
@@ -20,51 +19,51 @@ Opened WAD: ../../30th_static_fiend/Textures/rubicon.wad
 Opened WAD: ../../30th_static_fiend/Textures/utilsmall.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-         1993 brushes
+         2255 brushes
            31 detail
-         1316 planes
+         1498 planes
 ---- CSGFaces ----
-        11760 brushfaces
-         9105 csgfaces
-         8042 mergedfaces
+        13306 brushfaces
+        10442 csgfaces
+         9198 mergedfaces
 ---- SolidBSP ----
-        10180 split nodes
-         3917 solid leafs
-         6044 empty leafs
-          167 water leafs
+        11458 split nodes
+         4496 solid leafs
+         6758 empty leafs
+          152 water leafs
            53 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        17686 leaffaces
-        16370 nodefaces
+        19806 leaffaces
+        18233 nodefaces
 ---- Portalize ----
-         6264 vis leafs
-         6264 vis clusters
-        18551 vis portals
+         6963 vis leafs
+         6963 vis clusters
+        20611 vis portals
 ---- FillOutside ----
-         3669 outleafs
+         4024 outleafs
 ---- MergeAll ----
-         4598 mergefaces
+         5471 mergefaces
 ---- SolidBSP ----
-         2318 split nodes
-         1127 solid leafs
-         1148 empty leafs
-           10 water leafs
-           34 detail leafs
+         2696 split nodes
+         1334 solid leafs
+         1300 empty leafs
+           24 water leafs
+           39 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7144 leaffaces
-         5564 nodefaces
+         8355 leaffaces
+         6494 nodefaces
 ---- Portalize ----
-         1158 vis leafs
-         1105 vis clusters
-         2988 vis portals
+         1324 vis leafs
+         1269 vis clusters
+         3382 vis portals
 ---- Tjunc ----
-         5697 world edges
-        19342 edge points
-         4382 edges added by tjunctions
+         6817 world edges
+        22841 edge points
+         5133 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -72,20 +71,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote ../../30th_static_fiend/30th_fiend_metal1.bsp
-         1767 planes            35340
-         7304 vertexes          87648
-         2447 nodes             58728
-          846 texinfo           33840
-         5552 faces            111040
-         3439 clipnodes         27512
-         1283 leafs             35924
-         7099 marksurfaces      14198
-        26409 surfedges        105636
-        13212 edges             52848
-          133 textures        1028236
+         2056 planes            41120
+         8625 vertexes         103500
+         2915 nodes             69960
+          949 texinfo           37960
+         6567 faces            131340
+         4095 clipnodes         32760
+         1539 leafs             43092
+         8390 marksurfaces      16780
+        31237 surfedges        124948
+        15626 edges             62504
+          138 textures        1035256
               lightdata             0
               visdata               0
-              entdata           14721
+              entdata           23186
 
-0.547 seconds elapsed
-Peak memory usage: 77809618 (74.2M)
+0.646 seconds elapsed
+Peak memory usage: 72706632 (69.3M)
