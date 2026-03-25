@@ -3,11 +3,11 @@ Input file: ../../30th_static_fiend/30th_fiend_metal1.map
 Output file: ../../30th_static_fiend/30th_fiend_metal1.bsp
 
 ---- LoadMapFile ----
-        13062 faces
-         2232 brushes
-          335 entities
-          115 unique texnames
-         1716 texinfo
+        13382 faces
+         2270 brushes
+          361 entities
+          114 unique texnames
+         1836 texinfo
 
 Opened WAD: ../../30th_static_fiend/Textures/quake101.wad
 Opened WAD: ../../30th_static_fiend/Textures/ikbase.wad
@@ -19,51 +19,51 @@ Opened WAD: ../../30th_static_fiend/Textures/rubicon.wad
 Opened WAD: ../../30th_static_fiend/Textures/utilsmall.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-         2146 brushes
-           31 detail
-         1345 planes
+         2182 brushes
+           35 detail
+         1411 planes
 ---- CSGFaces ----
-        12725 brushfaces
-         9958 csgfaces
-         8592 mergedfaces
+        13058 brushfaces
+        10387 csgfaces
+         8901 mergedfaces
 ---- SolidBSP ----
-        10823 split nodes
-         4361 solid leafs
-         6356 empty leafs
-           62 water leafs
-           45 detail leafs
+        11138 split nodes
+         4430 solid leafs
+         6517 empty leafs
+          141 water leafs
+           51 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        18965 leaffaces
-        17323 nodefaces
+        19798 leaffaces
+        18156 nodefaces
 ---- Portalize ----
-         6463 vis leafs
-         6463 vis clusters
-        19624 vis portals
+         6709 vis leafs
+         6709 vis clusters
+        20530 vis portals
 ---- FillOutside ----
-         3634 outleafs
+         3643 outleafs
 ---- MergeAll ----
-         5299 mergefaces
+         5592 mergefaces
 ---- SolidBSP ----
-         2704 split nodes
-         1320 solid leafs
-         1327 empty leafs
-           19 water leafs
-           39 detail leafs
+         2940 split nodes
+         1392 solid leafs
+         1445 empty leafs
+           61 water leafs
+           43 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         8233 leaffaces
-         6241 nodefaces
+         8797 leaffaces
+         6738 nodefaces
 ---- Portalize ----
-         1346 vis leafs
-         1294 vis clusters
-         3519 vis portals
+         1506 vis leafs
+         1443 vis clusters
+         4036 vis portals
 ---- Tjunc ----
-         6520 world edges
-        22148 edge points
-         5119 edges added by tjunctions
+         6686 world edges
+        23203 edge points
+         5597 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -71,20 +71,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote ../../30th_static_fiend/30th_fiend_metal1.bsp
-         1911 planes            38220
-         8448 vertexes         101376
-         2942 nodes             70608
-         1038 texinfo           41520
-         6330 faces            126600
-         4407 clipnodes         35256
-         1575 leafs             44100
-         8283 marksurfaces      16566
-        30368 surfedges        121472
-        15188 edges             60752
-          136 textures         991308
+         2106 planes            42120
+         8908 vertexes         106896
+         3165 nodes             75960
+         1073 texinfo           42920
+         6779 faces            135580
+         4770 clipnodes         38160
+         1722 leafs             48216
+         8800 marksurfaces      17600
+        32538 surfedges        130152
+        16272 edges             65088
+          131 textures         984288
               lightdata             0
               visdata               0
-              entdata           23404
+              entdata           24862
 
-0.574 seconds elapsed
-Peak memory usage: 70254790 (67.0M)
+0.610 seconds elapsed
+Peak memory usage: 72675432 (69.3M)
