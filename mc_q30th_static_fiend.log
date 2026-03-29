@@ -1,13 +1,13 @@
 ---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
-Input file: ../../30th_static_fiend/30th_fiend_metal1.map
-Output file: ../../30th_static_fiend/30th_fiend_metal1.bsp
+Input file: ../../30th_static_fiend/mc_q30th_static_fiend.map
+Output file: ../../30th_static_fiend/mc_q30th_static_fiend.bsp
 
 ---- LoadMapFile ----
-        15110 faces
-         2563 brushes
-          448 entities
+        15404 faces
+         2613 brushes
+          473 entities
           116 unique texnames
-         1906 texinfo
+         1912 texinfo
 
 Opened WAD: ../../30th_static_fiend/Textures/quake101.wad
 Opened WAD: ../../30th_static_fiend/Textures/ikbase.wad
@@ -19,72 +19,72 @@ Opened WAD: ../../30th_static_fiend/Textures/rubicon.wad
 Opened WAD: ../../30th_static_fiend/Textures/utilsmall.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-         2378 brushes
+         2411 brushes
           108 detail
-         1569 planes
+         1579 planes
 ---- CSGFaces ----
-        14641 brushfaces
-        11630 csgfaces
-        10285 mergedfaces
+        14833 brushfaces
+        11714 csgfaces
+        10320 mergedfaces
 ---- SolidBSP ----
-        12300 split nodes
-         4722 solid leafs
-         7201 empty leafs
-          189 water leafs
-          189 detail leafs
+        12165 split nodes
+         4680 solid leafs
+         7108 empty leafs
+          185 water leafs
+          193 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        22625 leaffaces
-        20645 nodefaces
+        22606 leaffaces
+        20560 nodefaces
 ---- Portalize ----
-         7579 vis leafs
-         7579 vis clusters
-        23744 vis portals
+         7486 vis leafs
+         7486 vis clusters
+        23370 vis portals
 ---- FillOutside ----
-         3938 outleafs
+         3880 outleafs
 ---- MergeAll ----
-         6720 mergefaces
+         6750 mergefaces
 ---- SolidBSP ----
-         3493 split nodes
-         1578 solid leafs
-         1713 empty leafs
+         3421 split nodes
+         1533 solid leafs
+         1689 empty leafs
            66 water leafs
-          137 detail leafs
+          134 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        10464 leaffaces
-         8201 nodefaces
+        10504 leaffaces
+         8157 nodefaces
 ---- Portalize ----
-         1779 vis leafs
-         1574 vis clusters
-         4538 vis portals
+         1755 vis leafs
+         1557 vis clusters
+         4481 vis portals
 ---- Tjunc ----
-         7683 world edges
-        26828 edge points
-         6746 edges added by tjunctions
+         7692 world edges
+        26775 edge points
+         6788 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
-Wrote ../../30th_static_fiend/30th_fiend_metal1.bsp
-         2375 planes            47500
-        10422 vertexes         125064
-         3830 nodes             91920
-         1125 texinfo           45000
-         7892 faces            157840
-         5622 clipnodes         44976
-         2116 leafs             59248
-        10051 marksurfaces      20102
-        37780 surfedges        151120
-        18893 edges             75572
+Wrote ../../30th_static_fiend/mc_q30th_static_fiend.bsp
+         2415 planes            48300
+        10530 vertexes         126360
+         3848 nodes             92352
+         1136 texinfo           45440
+         7956 faces            159120
+         5721 clipnodes         45768
+         2178 leafs             60984
+        10201 marksurfaces      20402
+        38068 surfedges        152272
+        19037 edges             76148
           133 textures        1076856
               lightdata             0
               visdata               0
-              entdata           31894
+              entdata           34266
 
-0.723 seconds elapsed
-Peak memory usage: 81260618 (77.5M)
+0.770 seconds elapsed
+Peak memory usage: 81604230 (77.8M)
