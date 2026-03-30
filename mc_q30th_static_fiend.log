@@ -5,7 +5,7 @@ Output file: ../../30th_static_fiend/mc_q30th_static_fiend.bsp
 ---- LoadMapFile ----
         15398 faces
          2612 brushes
-          493 entities
+          494 entities
           116 unique texnames
          1906 texinfo
 
@@ -84,7 +84,7 @@ Wrote ../../30th_static_fiend/mc_q30th_static_fiend.bsp
           133 textures        1076856
               lightdata             0
               visdata               0
-              entdata           35529
+              entdata           35601
 
-0.754 seconds elapsed
-Peak memory usage: 81752816 (78.0M)
+0.733 seconds elapsed
+Peak memory usage: 81752888 (78.0M)

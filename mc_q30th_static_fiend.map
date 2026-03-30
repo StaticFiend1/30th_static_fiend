@@ -26370,3 +26370,9 @@
 "origin" "2448 -600 16"
 "spawnflags" "1"
 }
+// entity 493
+{
+"classname" "item_health"
+"origin" "800 1520 -144"
+"spawnflags" "1"
+}
