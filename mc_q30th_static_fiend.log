@@ -3,11 +3,11 @@ Input file: ../../30th_static_fiend/mc_q30th_static_fiend.map
 Output file: ../../30th_static_fiend/mc_q30th_static_fiend.bsp
 
 ---- LoadMapFile ----
-        15392 faces
-         2611 brushes
-          488 entities
+        15398 faces
+         2612 brushes
+          493 entities
           116 unique texnames
-         1903 texinfo
+         1906 texinfo
 
 Opened WAD: ../../30th_static_fiend/Textures/quake101.wad
 Opened WAD: ../../30th_static_fiend/Textures/ikbase.wad
@@ -71,20 +71,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote ../../30th_static_fiend/mc_q30th_static_fiend.bsp
-         2397 planes            47940
-        10521 vertexes         126252
-         3887 nodes             93288
-         1133 texinfo           45320
-         7955 faces            159100
-         5723 clipnodes         45784
-         2206 leafs             61768
-        10224 marksurfaces      20448
-        38040 surfedges        152160
-        19023 edges             76092
+         2403 planes            48060
+        10529 vertexes         126348
+         3893 nodes             93432
+         1136 texinfo           45440
+         7961 faces            159220
+         5735 clipnodes         45880
+         2212 leafs             61936
+        10230 marksurfaces      20460
+        38064 surfedges        152256
+        19035 edges             76140
           133 textures        1076856
               lightdata             0
               visdata               0
-              entdata           35161
+              entdata           35529
 
-0.743 seconds elapsed
-Peak memory usage: 81739740 (78.0M)
+0.754 seconds elapsed
+Peak memory usage: 81752816 (78.0M)
