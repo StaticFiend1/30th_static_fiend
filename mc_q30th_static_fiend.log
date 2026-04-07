@@ -84,7 +84,7 @@ Wrote ../../30th_static_fiend/mc_q30th_static_fiend.bsp
           134 textures        1082340
               lightdata             0
               visdata               0
-              entdata           35518
+              entdata           35529
 
-0.774 seconds elapsed
-Peak memory usage: 84751760 (80.8M)
+0.759 seconds elapsed
+Peak memory usage: 84751784 (80.8M)

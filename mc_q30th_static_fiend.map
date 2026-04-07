@@ -21493,6 +21493,7 @@
 "targetname" "ending_covers"
 "wait" "-1"
 "sounds" "4"
+"lip" "16"
 // brush 0
 {
 ( 1840 -544 -16 ) ( 1840 -543 -16 ) ( 1840 -544 -15 ) met5_1 0 32 0 1 1
