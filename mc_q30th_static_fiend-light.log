@@ -1,0 +1,42 @@
+---- light / ericw-tools 2.0.0-alpha10 ----
+LoadBSPFile: '../30th_static_fiend/mc_q30th_static_fiend.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+Loading extended texinfo flags from ../30th_static_fiend/mc_q30th_static_fiend.texinfo.json...
+Loading extended content flags from ../30th_static_fiend/mc_q30th_static_fiend.content.json...
+456 entities read, 206 are lights.
+
+--- Options Summary ---
+    "light" was set to "50.000000" (from map)
+    "dirt" was set to "1" (from map)
+    "minlight_dirt" was set to "1" (from command line)
+    "bounce" was set to "1" (from map)
+    "sunlight_dirt" was set to "1.000000" (from command line)
+    "sunlight2_dirt" was set to "1.000000" (from command line)
+    "soft" was set to "2" (from command line)
+    "extra" was set to "4" (from command line)
+
+Embree_TraceInit: Embree version: 4.4.0
+Embree_TraceInit: 
+	0 sky faces
+	9506 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 206 initial lights
+SetupLights: 206 after surface lights
+SetupLights: 206 after jittering
+Final count: 206 lights, 0 suns in use.
+       48 dirtmap vectors
+0 surface light points in use.
+map uses color: true
+Colored light entities/settings detected: .lit output enabled.
+lightmap size (total): 1161040
+Lighting Completed.
+
+Writing ../30th_static_fiend/mc_q30th_static_fiend.lit
+0 switchable light styles (32 max)
+Writing ../30th_static_fiend/mc_q30th_static_fiend.bsp as Quake BSP bsp29
+10.935s seconds elapsed
+0 empty lightmaps
+
+

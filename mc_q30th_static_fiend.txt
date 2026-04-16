@@ -1,0 +1,48 @@
+===========================================================================
+Title                   : The Halls of Misanthropy
+Filename                : mc_q30th_static_fiend.bsp
+Release date            : April 2026
+Author                  : Static Fiend
+Email Address           : static.fiend@gmail.com
+Other Files By Author   :
+                                                    
+Description             : Submission for Quake 30th anniversary jam from Map-Center, made my interpretation of a base map that dives into a primarily runic area.
+                                                                          
+                          
+===========================================================================
+* What is included *
+
+New levels              : Yes 
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Other                   : No 
+
+
+* Play Information *
+
+Single Player           : Designed for 
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Deathmatch spawns
+Difficulty Settings     : Yes 
+
+
+* Construction *
+
+Base                    : New from scratch 
+Build Time              : ~1 month
+Editor(s) used          : Trenchbroom, ericw tools
+Known Bugs              : None that I know of
+May Not Run With        : DOS or WinQuake
+Tested With             : Ironwail 0.8.1
+
+
+
+* Copyright / Permissions *
+
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
